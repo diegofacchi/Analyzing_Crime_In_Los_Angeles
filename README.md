@@ -10,4 +10,23 @@ This project analyzes crime data in Los Angeles, focusing on crime trends, peak 
 
 ### 📈 Visualization  
 - A bar chart (Seaborn + Matplotlib) displays crime frequency by hour.  
-- Identifies the area
+- Identifies the area with the highest night crime activity.  
+- Generates insights into victim age distribution through visualizations.  
+
+### 🔎 Additional Insights  
+- Determines the most common crime timeframes.  
+- Highlights patterns in victim age groups.  
+
+## 🛠 Technologies  
+- Python  
+- Pandas  
+- Seaborn  
+- NumPy  
+- Matplotlib  
+
+## 🚀 Usage  
+Ensure you have the required libraries installed:  
+
+```bash
+pip install pandas seaborn numpy matplotlib
+
